@@ -1,0 +1,21 @@
+#s1{
+    height: 500px
+}
+
+#center-col {
+    height: 900px;
+}
+
+#contact-container {
+    text-align: center;
+    padding-top: 50px;
+    margin: 10px;
+    height: 400px;
+    width: 800px;
+    border: 2px solid black;
+}
+
+#logo {
+    height: 255px;
+    width: 225px;
+}
